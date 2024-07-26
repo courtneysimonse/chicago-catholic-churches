@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "maplibre-gl": "^4.5.0",
+    "maplibre-gl-opacity": "^1.7.0",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
